@@ -1,4 +1,4 @@
-h1 align="center">¡Hola! Soy Luca 👋</h1>
+<h1 align="center">¡Hola! Soy Luca 👋</h1>
 
 <p align="center">
   <b>Estudiante de DAW</b> · Futuro desarrollador web · Aprendiendo en público 🚀
