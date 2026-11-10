@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Luca Toffoletto Álvarez**, estudiante de primer curso de **Desarrollo de Aplicaciones Web** y vivo en **Málaga, España** 🌞.
+
 Soy una persona **extrovertida**, me encantan los **retos** y sé **trabajar en equipo**: creo que los mejores proyectos salen de buenas ideas compartidas.
 Me gusta construir cosas que funcionan, romperlas, entender por qué se han roto y volver a arreglarlas.
 Este perfil es mi diario de aprendizaje: aquí comparto mis ejercicios, prácticas y proyectos.
